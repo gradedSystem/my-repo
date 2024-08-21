@@ -11,3 +11,4 @@ description: Countries in Western Europe, East Asia, and North America were the 
   xAxis="Continent"
   yAxis="Gold Medals"
 />
+<FlatUiTable data={{ url: "continent_golds.csv" }}/>
