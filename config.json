@@ -1,7 +1,5 @@
 {
     "title": "Test site title",
     "description": "Test site description",
-    "logo": "logo.jpeg",
-    "navLinks": [{"href": "/", "name": "home"}],
     "showSidebar": true
 }
